@@ -49,7 +49,7 @@ The long-term goal is to:
 
 ## Data
 
-Data is sourced from the [NASA Exoplanet Archive](!https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&config=PSCompPars).
+Data is sourced from the [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&config=PSCompPars).
 
 ---
 
